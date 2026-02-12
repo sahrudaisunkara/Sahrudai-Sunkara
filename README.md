@@ -1,11 +1,8 @@
 <h1 align="center">👋 Hey Everyone, I'm Sahrudai</h1>
----
 
 ## 🚀 About Me
 
-👋 Hello, I’m Sahrudai — a problem-solver passionate about turning raw data into meaningful insights.  
-My journey started with projects like **Heart Disease Prediction (ML)**, **Brain Stroke Prediction (CNN)**, and **Object Detection using TensorFlow**, which strengthened both my Python skills and real-world AI understanding.  
-These experiences naturally led me into **Data Science**, where logic, creativity, and continuous learning come together.  
+👋 Hello, I’m Sahrudai — a problem-solver passionate about turning raw data into meaningful insights.My journey started with projects like **Heart Disease Prediction (ML)**, **Brain Stroke Prediction (CNN)**, and **Object Detection using TensorFlow**, which strengthened both my Python skills and real-world AI understanding.These experiences naturally led me into **Data Science**, where logic, creativity, and continuous learning come together.  
 If you’re into AI/ML, product building, or data-driven ideas, let’s connect and build something impactful.
 
 ---
