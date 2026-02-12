@@ -14,7 +14,7 @@ If you’re into AI/ML, product building, or just curious about data science pro
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sahrudaisunkara&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 
