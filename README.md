@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 
-👋 Hello, I’m Sahrudai — a problem-solver passionate about turning raw data into meaningful insights.My journey started with projects like **Heart Disease Prediction (ML)**, **Brain Stroke Prediction (CNN)**, and **Object Detection using TensorFlow**, which strengthened both my Python skills and real-world AI understanding.These experiences naturally led me into **Data Science**, where logic, creativity, and continuous learning come together.  
-If you’re into AI/ML, product building, or data-driven ideas, let’s connect and build something impactful.
+A problem-solver on a journey to turn raw data into meaningful insights.I started out exploring technology through projects like heart disease prediction (Machine Learning), brain stroke prediction (CNN), and object detection with TensorFlow. Those experiments didn’t just sharpen my coding skills in Python but they also showed me how data and algorithms can make real-world impact.That curiosity naturally led me to Data Science . For me, it’s the perfect mix of logic, creativity, and continuous learning.
+If you’re into AI/ML, product building, or just curious about data science projects, let’s connect! I’m always open to collaborations, share knowledge and conversations that spark new ideas.
 
 
 <p align="center">
@@ -12,7 +12,11 @@ If you’re into AI/ML, product building, or data-driven ideas, let’s connect 
   <img src="https://img.shields.io/badge/MACHINE%20LEARNING%20ENGINEER-65A30D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DATA%20ANALYST-F97316?style=for-the-badge"/>
 </p>
----
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 
 ## 💬 Ask me about
 - Machine Learning
