@@ -1,33 +1,30 @@
-# 👋 Hi, I'm Sahrudai
+# 👋 Hey, I'm Sahrudai
 
 ## 🎓 AIML Graduate | Certified Data Scientist (CDS) – IABAC
 
-I am an AIML graduate and Certified Data Scientist with strong expertise in Machine Learning, Exploratory Data Analysis (EDA), and Feature Engineering. I enjoy working with data to build practical solutions and derive meaningful insights.
+---
+
+## 🚀 Roles
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA%20SCIENTIST-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING%20ENGINEER-6DB33F?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DATA%20ANALYST-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Highlights
-- 🤖 AIML Graduate
-- 🏆 Certified Data Scientist (CDS) – IABAC
-- 📊 Data Analysis & Business Intelligence
-- 📈 Advanced Power BI Dashboard Development
-- 🔎 Exploratory Data Analysis & Feature Engineering
-
----
-
-## 💬 What I'm Good At
-- Machine Learning Model Developmet
+## 💬 Ask me about
+- Machine Learning
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Data Cleaning & Preprocessing
-- SQL Querying & Data Handling
-- Power BI Reporting & Interactive Dashboards
+- SQL & Data Analysis
+- Power BI Dashboards
 
 ---
 
 ## 🛠 Tech Stack
 - **Languages:** Python, SQL
-- **Machine Learning:** Scikit-learn, TensorFlow, XGBoost, Keras
+- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras
 - **EDA & Feature Engineering:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
 - **Business Intelligence:** Power BI 
@@ -36,8 +33,19 @@ I am an AIML graduate and Certified Data Scientist with strong expertise in Mach
 
 ---
 
-## 📫 How to Reach Me
+## 🤝 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sahrudai-sunkara-a7884927b" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://instagram.com/sahrudai_varma" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📫 Reach me
 - 📧 Email: sahrudaisunkara@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sahrudai-sunkara-a7884927b
-- 📸 Instagram: https://instagram.com/sahrudai_varma
 - 📂 GitHub: https://github.com/sahrudaisunkara
+
