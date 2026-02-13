@@ -32,9 +32,9 @@ If you’re into AI/ML, product building, or just curious about data science pro
 - **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras
 - **EDA & Feature Engineering:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
-- **Business Intelligence:** Power BI (Advanced)
+- **Business Intelligence:** Power BI
 - **Tools:** Git, GitHub, Jupyter Notebook, Google Colab
-- **Basics:** MongoDB, Tableau
+- **DataBases:** Mysql, MongoDB
 
 ---
 
