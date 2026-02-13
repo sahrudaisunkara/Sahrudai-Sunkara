@@ -15,6 +15,7 @@ If you’re into AI/ML, product building, or just curious about data science pro
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sahrudaisunkara&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahrudaisunkara&show_icons=true&hide=issues&count_private=true" height="20"/>
 </p>
 
 
