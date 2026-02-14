@@ -20,6 +20,7 @@ If you’re into AI/ML, product building, or just curious about data science pro
 
 
 ## 💬 Ask me about
+- Python
 - Machine Learning
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
