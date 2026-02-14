@@ -30,7 +30,7 @@ If you’re into AI/ML, product building, or just curious about data science pro
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python, SQL, Java
+- **Languages:** Python, SQL, R, Java
 - **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras
 - **EDA & Feature Engineering:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn
